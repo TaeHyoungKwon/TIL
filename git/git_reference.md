@@ -1,4 +1,4 @@
-## git push 할 때, 403 에러가 발생 하면?
+## To Occur 403 Error, When you type 'git push'
 
 ```shell
 git remote set-url origin "https://github-username@github.com/github-username/github-repository-name.git"
