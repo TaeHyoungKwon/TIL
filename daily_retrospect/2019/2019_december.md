@@ -1003,3 +1003,40 @@
 
 
 
+
+
+## 12월 넷째주
+
+### 이번주 목표
+
+* [x] 코드워즈 +70점(811점 -> 861점)
+* [ ] 이번주의 가벼운 책
+  * [x] 애자일 프랙티스
+* [ ] 이번주의 기술서적 읽기
+  * [ ] PYthon tricks the book
+    * [x] 1번 완료
+    * [ ] 2번 완료
+    * [ ] 3번 완료
+    * [ ] 4번 완료
+* [ ] 이번주의 프로젝트
+  * [ ] TweetMe 클론코딩
+* [ ] 애자일 컨설팅 글 하나를 읽고 매일 내 생각 적기 - 5개
+  * [창의성의 아이러니](https://www.ibm.com/developerworks/community/blogs/9e635b49-09e9-4c23-8999-a4d461aeace2/entry/152?lang=en)
+  * [객관성의 주관성 : 당신이 설득에 실패하는 이유](http://agile.egloos.com/5370989)
+  * [달인이 되는 비결](http://agile.egloos.com/5612585)
+  * [프로그래밍 언어의 달인](http://agile.egloos.com/5664879)
+  * [학습 프레임과 실행 프레임](http://agile.egloos.com/5685603)
+  * [불성실한 사람들을 위한 변명](http://agile.egloos.com/5737343)
+
+## 191226(목)
+
+### Fact
+
+
+
+
+
+
+
+
+
